@@ -1,4 +1,4 @@
-This repository reproduces NodeBB/NodeBB#7263 on both Windows and Linux.
+This repository reproduces [NodeBB/NodeBB#7263](https://github.com/NodeBB/NodeBB/issues/7263) on both Windows and Linux.
 
 Reproduction steps:
 
